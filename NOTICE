@@ -1,0 +1,19 @@
+autocode (Clojure port) — attribution notice
+
+This work is derived from empero-org/autocode
+(https://github.com/empero-org/autocode), Copyright its contributors,
+licensed under Apache-2.0. Per Apache-2.0 Section 4(d), the original
+NOTICE is preserved below.
+
+--- Original NOTICE (empero-org/autocode) ---
+autocode
+Copyright 2026 Empero and contributors.
+Licensed under the Apache License, Version 2.0.
+See LICENSE for the full text. If you redistribute autocode or build
+on it, keep this attribution, as Section 4(d) of the license requires.
+--- End original NOTICE ---
+
+Clojure reimagining: single-namespace JVM agent, zero third-party deps
+(clojure.core + JDK only), EDN sessions, file-based tools, self-reload.
+Local-only build: no network calls except to a user-configured
+OpenAI-compatible /chat/completions endpoint at runtime.
