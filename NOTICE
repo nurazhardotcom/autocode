@@ -1,9 +1,14 @@
-autocode (Clojure port) — attribution notice
+autocode (Clojure port) — attribution and licensing notice
+
+Copyright 2026 nurazhardotcom.
+This project as a whole is licensed under the GNU Affero General Public
+License v3.0 or later (AGPL-3.0-or-later); see LICENSE for the full text.
 
 This work is derived from empero-org/autocode
 (https://github.com/empero-org/autocode), Copyright its contributors,
 licensed under Apache-2.0. Per Apache-2.0 Section 4(d), the original
-NOTICE is preserved below.
+NOTICE is preserved below, and the upstream Apache-2.0 attribution
+notices are retained.
 
 --- Original NOTICE (empero-org/autocode) ---
 autocode
