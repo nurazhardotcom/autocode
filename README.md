@@ -1,5 +1,7 @@
 # autocode (Clojure)
 
+> **Maintenance note:** this experiment is being merged into [tui](https://github.com/nurazhardotcom/tui) (personal prod gateway). No new features here — security fixes only. Upstream attribution in [`NOTICE`](NOTICE) (`empero-org/autocode`, Apache-2.0).
+
 A minimal self-mutating coding agent that lives in your project. One agent loop, one built-in tool (`bash`), zero third-party dependencies (Clojure core + JDK only).
 
 This is a Clojure-native reimagining of [empero-org/autocode](https://github.com/empero-org/autocode): immutable message maps, EDN sessions, file-based tools, and homoiconic self-modification. See `NOTICE` for upstream attribution.
